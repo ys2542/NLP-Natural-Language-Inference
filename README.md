@@ -1,9 +1,7 @@
-# NLP_Assignment_2
+# Natural Language Processing Assignment 2
 
-Yulin Shen 
+The code is referenced by the lab4.
 
-ys2542@nyu.edu
-
-The code is referenced by lab4.
+The code and running result are in the jupyter notebook file above.
 
 The specific explanation is in the pdf file above.
